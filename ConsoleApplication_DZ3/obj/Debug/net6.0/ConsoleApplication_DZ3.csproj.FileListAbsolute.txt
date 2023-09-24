@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\bin\Debug\net6.0\ConsoleApplication_DZ3.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\bin\Debug\net6.0\ConsoleApplication_DZ3.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\bin\Debug\net6.0\ConsoleApplication_DZ3.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\bin\Debug\net6.0\ConsoleApplication_DZ3.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\bin\Debug\net6.0\ConsoleApplication_DZ3.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\refint\ConsoleApplication_DZ3.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ConsoleApplication_DZ3.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\ConsoleApplication_DZ3\obj\Debug\net6.0\ref\ConsoleApplication_DZ3.dll
