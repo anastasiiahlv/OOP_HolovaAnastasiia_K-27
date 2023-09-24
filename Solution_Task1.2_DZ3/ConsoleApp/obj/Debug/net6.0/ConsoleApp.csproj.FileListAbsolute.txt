@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\Solution_Task1.2_DZ3\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
