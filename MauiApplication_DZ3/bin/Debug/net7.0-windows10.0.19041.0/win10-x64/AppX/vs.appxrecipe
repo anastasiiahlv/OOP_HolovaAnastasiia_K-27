@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\MauiApplication_DZ3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-24T16:52:21.633</Modified>
+      <Modified>2023-09-24T17:14:15.969</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\MauiApplication_DZ3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-24T16:37:36.797</Modified>
+      <Modified>2023-09-24T17:11:09.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\MauiApplication_DZ3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApplication_DZ3.runtimeconfig.json">
       <PackagePath>MauiApplication_DZ3.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\MauiApplication_DZ3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApplication_DZ3.dll">
       <PackagePath>MauiApplication_DZ3.dll</PackagePath>
-      <Modified>2023-09-24T16:52:18.712</Modified>
+      <Modified>2023-09-24T17:14:12.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\MauiApplication_DZ3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApplication_DZ3.exe</PackagePath>
-      <Modified>2023-09-24T16:52:18.771</Modified>
+      <Modified>2023-09-24T17:14:12.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -939,7 +939,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\MauiApplication_DZ3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApplication_DZ3.deps.json">
       <PackagePath>MauiApplication_DZ3.deps.json</PackagePath>
-      <Modified>2023-09-24T16:52:21.261</Modified>
+      <Modified>2023-09-24T17:14:15.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
