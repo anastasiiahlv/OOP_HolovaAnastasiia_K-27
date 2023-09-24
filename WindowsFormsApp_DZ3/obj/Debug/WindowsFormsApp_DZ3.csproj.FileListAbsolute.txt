@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\bin\Debug\WindowsFormsApp_DZ3.exe.config
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\bin\Debug\WindowsFormsApp_DZ3.exe
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\bin\Debug\WindowsFormsApp_DZ3.pdb
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.Form1.resources
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.Properties.Resources.resources
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.exe
+C:\Users\USER\Desktop\univ\програмування\WindowsFormsApp_DZ3\obj\Debug\WindowsFormsApp_DZ3.pdb
