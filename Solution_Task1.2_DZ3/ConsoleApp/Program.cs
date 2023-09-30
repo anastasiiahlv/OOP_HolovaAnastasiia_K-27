@@ -16,8 +16,6 @@
             {
                 Console.WriteLine("It's not an integer. Please, try again.");
             }
-
-
         }
     }
 }

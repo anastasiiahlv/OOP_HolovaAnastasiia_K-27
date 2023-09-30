@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication_DZ3", "ConsoleApplication_DZ3.csproj", "{3B1BA169-0B32-4A21-98A1-47B338482B02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApplication_DZ3", "ConsoleApplication_DZ3.csproj", "{3B1BA169-0B32-4A21-98A1-47B338482B02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiApplication_DZ3", "..\MauiApplication_DZ3\MauiApplication_DZ3.csproj", "{5464592B-A35B-448B-B833-56B1622BE04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp_DZ3", "..\WindowsFormsApp_DZ3\WindowsFormsApp_DZ3.csproj", "{765D75AD-4676-4748-AF7A-5633A32BD906}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApplication_DZ3", "..\WpfApplication_DZ3\WpfApplication_DZ3.csproj", "{CE6B47F8-E10B-48BC-A472-ABF39F6100E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "..\Solution_Task1.2_DZ3\ConsoleApp\ConsoleApp.csproj", "{C95E70F6-FA23-4610-8ED0-899929C7E85D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,24 @@ Global
 		{3B1BA169-0B32-4A21-98A1-47B338482B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B1BA169-0B32-4A21-98A1-47B338482B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B1BA169-0B32-4A21-98A1-47B338482B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5464592B-A35B-448B-B833-56B1622BE04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5464592B-A35B-448B-B833-56B1622BE04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5464592B-A35B-448B-B833-56B1622BE04E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5464592B-A35B-448B-B833-56B1622BE04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5464592B-A35B-448B-B833-56B1622BE04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5464592B-A35B-448B-B833-56B1622BE04E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{765D75AD-4676-4748-AF7A-5633A32BD906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765D75AD-4676-4748-AF7A-5633A32BD906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765D75AD-4676-4748-AF7A-5633A32BD906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765D75AD-4676-4748-AF7A-5633A32BD906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6B47F8-E10B-48BC-A472-ABF39F6100E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6B47F8-E10B-48BC-A472-ABF39F6100E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6B47F8-E10B-48BC-A472-ABF39F6100E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6B47F8-E10B-48BC-A472-ABF39F6100E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95E70F6-FA23-4610-8ED0-899929C7E85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95E70F6-FA23-4610-8ED0-899929C7E85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95E70F6-FA23-4610-8ED0-899929C7E85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95E70F6-FA23-4610-8ED0-899929C7E85D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
