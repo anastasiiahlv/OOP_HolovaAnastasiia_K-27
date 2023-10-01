@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\bin\Debug\net6.0\ConsoleApplication_Task3.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\bin\Debug\net6.0\ConsoleApplication_Task3.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\bin\Debug\net6.0\ConsoleApplication_Task3.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\bin\Debug\net6.0\ConsoleApplication_Task3.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\bin\Debug\net6.0\ConsoleApplication_Task3.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\refint\ConsoleApplication_Task3.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ConsoleApplication_Task3.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task3\obj\Debug\net6.0\ref\ConsoleApplication_Task3.dll
