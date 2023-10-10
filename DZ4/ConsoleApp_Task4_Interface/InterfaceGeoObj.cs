@@ -1,18 +1,7 @@
-﻿abstract class GeographicalObject
+﻿using System.Xml.Linq;
+
+interface IGeographicalObject
 {
-    protected double _coordinateX;
-    protected double _coordinateY;
-    protected string _name = "";
-    protected string _description = "";
-
-    public GeographicalObject(string name)
-    {
-        this._name = name;
-        this._coordinateX = 0;
-        this._coordinateY = 0;
-        this._description = "";
-    }
-
     public abstract double CoordinateX
     {
         get; set;
@@ -33,46 +22,47 @@
         get; set;
     }
 
-    public virtual void GetInfo()
-    {
-        Console.WriteLine("Information about a geographical object.");
-        Console.WriteLine("Name of geographical object: " + _name);
-        Console.WriteLine("Description: " + _description);
-        Console.WriteLine("Coordinate X: " + _coordinateX);
-        Console.WriteLine("Coordinate Y: " + Convert.ToString(_coordinateY));
-    }
+    public void GetInfo();
 }
 
-class River: GeographicalObject
+public class River : IGeographicalObject
 {
-    private double _flowRate;
-    private double _length;
-
-    public River(string name) : base(name)
+    protected double _coordinateX;
+    protected double _coordinateY;
+    protected string _name = "";
+    protected string _description = "";
+    protected double _flowRate;
+    protected double _length;
+    
+    public River(string name)
     {
+        this._name = name;
+        this._coordinateX = 0;
+        this._coordinateY = 0;
+        this._description = "";
         this._flowRate = 0;
         this._length = 0;
     }
 
-    public override double CoordinateX
+    public double CoordinateX
     {
         get { return _coordinateX; }
         set { _coordinateX = value; }
     }
 
-    public override double CoordinateY
+    public double CoordinateY
     {
         get { return _coordinateY; }
         set { _coordinateY = value; }
     }
 
-    public override string Name
+    public string Name
     {
         get { return _name; }
         set { _name = value; }
     }
 
-    public override string Description
+    public string Description
     {
         get { return _description; }
         set { _description = value; }
@@ -89,8 +79,7 @@ class River: GeographicalObject
         get { return _length; }
         set { _length = value; }
     }
-
-    public override void GetInfo()
+    public void GetInfo()
     {
         Console.WriteLine("Information about a river.");
         Console.WriteLine("Name of river: " + _name);
@@ -101,34 +90,42 @@ class River: GeographicalObject
     }
 }
 
-class Mountain: GeographicalObject
+public class Mountain : IGeographicalObject
 {
-    private double _highestPoint;
+    protected double _highestPoint;
+    protected double _coordinateX;
+    protected double _coordinateY;
+    protected string _name = "";
+    protected string _description = "";
 
-    public Mountain(string name): base(name)
+    public Mountain(string name)
     {
+        this._name = name;
+        this._coordinateX = 0;
+        this._coordinateY = 0;
+        this._description = "";
         this._highestPoint = 0;
     }
 
-    public override double CoordinateX
+    public double CoordinateX
     {
         get { return _coordinateX; }
         set { _coordinateX = value; }
     }
 
-    public override double CoordinateY
+    public double CoordinateY
     {
         get { return _coordinateY; }
         set { _coordinateY = value; }
     }
 
-    public override string Name
+    public string Name
     {
         get { return _name; }
         set { _name = value; }
     }
 
-    public override string Description
+    public string Description
     {
         get { return _description; }
         set { _description = value; }
@@ -140,7 +137,7 @@ class Mountain: GeographicalObject
         set { _highestPoint = value; }
     }
 
-    public override void GetInfo()
+    public void GetInfo()
     {
         Console.WriteLine("Information about a mountain.");
         Console.WriteLine("Name of mountain: " + _name);
@@ -149,5 +146,22 @@ class Mountain: GeographicalObject
         Console.WriteLine("Coordinate Y: " + Convert.ToString(_coordinateY));
         Console.WriteLine("Highest point: " + Convert.ToString(_highestPoint));
     }
+}
 
+class Program
+{
+    static void Main(string[] args)
+    {
+        River Dnipro = new River("Dnipro");
+        Dnipro.Description = "Dnipro is the fourth-longest river in Europe and the third-largest in terms " +
+            "of basin area, and the river with the longest course in Ukraine.";
+        Dnipro.CoordinateX = 55;
+        Dnipro.CoordinateY = 33;
+        Dnipro.FlowRate = 60;
+        Dnipro.Length = 2201;
+
+        Dnipro.GetInfo();
+
+        Console.ReadKey();
+    }
 }

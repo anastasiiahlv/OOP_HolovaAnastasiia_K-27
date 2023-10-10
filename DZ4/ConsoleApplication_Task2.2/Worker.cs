@@ -84,6 +84,7 @@ class Manager: Worker
 
     public override void FillWorkDay()
     {
+        Console.WriteLine("-----WORKDAY-----");
         for(int i = 0; i < _random.Next(1, 10); i++)
         {
             Call();
@@ -95,6 +96,7 @@ class Manager: Worker
         {
             Call();
         }
+        Console.WriteLine("-----------------");
     }
 }
 
@@ -131,14 +133,13 @@ class Team
             Console.WriteLine("<" + w.Name + "> - <" + w.Position + "> - <" + w.GetAllWorkDays() + ">");
         }
     }
-
-
 }
 
 class Program
 {
     static void Main(string[] args)
     {
+
         Developer firstDeveloper = new Developer("Anya");
         Developer secondDeveloper = new Developer("Ilona");
 
@@ -176,6 +177,9 @@ class Program
 
         Console.WriteLine("---------------------");
 
+        firstManager.FillWorkDay();
+
+        Console.ReadKey(); 
     }
 }
 

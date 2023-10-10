@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\bin\Debug\net6.0\ConsoleApp_Task4_AbstractClass.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\bin\Debug\net6.0\ConsoleApp_Task4_AbstractClass.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\bin\Debug\net6.0\ConsoleApp_Task4_AbstractClass.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\bin\Debug\net6.0\ConsoleApp_Task4_AbstractClass.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\bin\Debug\net6.0\ConsoleApp_Task4_AbstractClass.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\refint\ConsoleApp_Task4_AbstractClass.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ConsoleApp_Task4_AbstractClass.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApplication_Task4\obj\Debug\net6.0\ref\ConsoleApp_Task4_AbstractClass.dll

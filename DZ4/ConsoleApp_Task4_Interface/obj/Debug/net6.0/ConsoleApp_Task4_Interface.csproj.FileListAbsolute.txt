@@ -3,3 +3,13 @@ C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_In
 C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\ConsoleApp_Task4_Interface.AssemblyInfoInputs.cache
 C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\ConsoleApp_Task4_Interface.AssemblyInfo.cs
 C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\ConsoleApp_Task4_Interface.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\bin\Debug\net6.0\ConsoleApp_Task4_Interface.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\bin\Debug\net6.0\ConsoleApp_Task4_Interface.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\bin\Debug\net6.0\ConsoleApp_Task4_Interface.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\bin\Debug\net6.0\ConsoleApp_Task4_Interface.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\bin\Debug\net6.0\ConsoleApp_Task4_Interface.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\ConsoleApp_Task4_Interface.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\refint\ConsoleApp_Task4_Interface.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\ConsoleApp_Task4_Interface.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\ConsoleApp_Task4_Interface.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ4\ConsoleApp_Task4_Interface\obj\Debug\net6.0\ref\ConsoleApp_Task4_Interface.dll
