@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DZ4_MauiApplication_Task5.MainPage">
+
+    <ScrollView>
+    <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+        <ListView x:Name="booksList">
+            <ListView.Header>
+                <Grid
+                    RowDefinitions="50"
+                    ColumnDefinitions="*, *, *, *, *, *, *, *, *">
+
+                    <Label Text="Name" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
+                    <Label Text="Author" FontAttributes="Bold" Grid.Row="0" Grid.Column="1" />
+                    <Label Text="Price" FontAttributes="Bold" Grid.Row="0" Grid.Column="2" />
+                    <Label Text="Number of pages" FontAttributes="Bold" Grid.Row="0" Grid.Column="3" />
+                    <Label Text="Country" FontAttributes="Bold" Grid.Row="0" Grid.Column="4" />
+                    <Label Text="Publisher" FontAttributes="Bold" Grid.Row="0" Grid.Column="5" />
+                    <Label Text="Packing date" FontAttributes="Bold" Grid.Row="0" Grid.Column="6" />
+                    <Label Text="Description" FontAttributes="Bold" Grid.Row="0" Grid.Column="7" />
+                    <Label Text="" Grid.Row="0" Grid.Column="8" />
+                </Grid>
+            </ListView.Header>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid 
+                        RowDefinitions="Auto"
+                        ColumnDefinitions="*, *, *, *, *, *, *, *, *">
+
+                            <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="0" />
+                            <Label Text="{Binding Author}" Grid.Row="0" Grid.Column="1" />
+                            <Label Text="{Binding Price}" Grid.Row="0" Grid.Column="2" />
+                            <Label Text="{Binding Country}" Grid.Row="0" Grid.Column="3" />
+                            <Label Text="{Binding NumberOfPage}" Grid.Row="0" Grid.Column="4" />
+                            <Label Text="{Binding Publisher}" Grid.Row="0" Grid.Column="5" />
+                            <Label Text="{Binding PackingDate}" Grid.Row="0" Grid.Column="6" />
+                            <Label Text="{Binding Description}" Grid.Row="0" Grid.Column="7" />
+
+                            <Button 
+                                    x:Name="AddBtn"
+                                    Text="Add to cart" 
+                                    WidthRequest="100" HeightRequest="50"
+                                    Grid.Row="0" Grid.Column="8" 
+                                    Clicked="AddToCartClicked"
+                                    CommandParameter="{Binding .}" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+        <ListView x:Name="goodsList">
+            <ListView.Header>
+                <Grid
+                    RowDefinitions="50"
+                    ColumnDefinitions="*, *, *, *, *, *, *, *, *">
+
+                    <Label Text="Name" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
+                    <Label Text="Country" FontAttributes="Bold" Grid.Row="0" Grid.Column="1" />
+                    <Label Text="Price" FontAttributes="Bold" Grid.Row="0" Grid.Column="2" />
+                    <Label Text="Packing date" FontAttributes="Bold" Grid.Row="0" Grid.Column="3" />
+                    <Label Text="Expiry date" FontAttributes="Bold" Grid.Row="0" Grid.Column="4" />
+                    <Label Text="Quantity" FontAttributes="Bold" Grid.Row="0" Grid.Column="5" />
+                    <Label Text="Unit of measurement" FontAttributes="Bold" Grid.Row="0" Grid.Column="6" />
+                    <Label Text="Description" FontAttributes="Bold" Grid.Row="0" Grid.Column="7" />
+                    <Label Text="" Grid.Row="0" Grid.Column="8" />
+                </Grid>
+            </ListView.Header>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid 
+                        RowDefinitions="Auto"
+                        ColumnDefinitions="*, *, *, *, *, *, *, *, *">
+
+                            <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="0" />
+                            <Label Text="{Binding Country}" Grid.Row="0" Grid.Column="1" />
+                            <Label Text="{Binding Price}" Grid.Row="0" Grid.Column="2" />
+                            <Label Text="{Binding PackingDate}" Grid.Row="0" Grid.Column="3" />
+                            <Label Text="{Binding ExpiryDate}" Grid.Row="0" Grid.Column="4" />
+                            <Label Text="{Binding Quantity}" Grid.Row="0" Grid.Column="5" />
+                            <Label Text="{Binding UnitOfMeasurement}" Grid.Row="0" Grid.Column="6" />
+                            <Label Text="{Binding Description}" Grid.Row="0" Grid.Column="7" />
+
+                            <Button x:Name="AddBtn"
+                                    Text="Add to cart" 
+                                    WidthRequest="100" HeightRequest="50"
+                                    Grid.Row="0" Grid.Column="8" 
+                                    Clicked="AddToCartClicked"
+                                    CommandParameter="{Binding .}" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <ListView x:Name="productsList">
+            <ListView.Header>
+                <Grid
+                    RowDefinitions="50"
+                    ColumnDefinitions="*, *, *, *, *, *, *, *, *">
+
+                    <Label Text="Name" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
+                    <Label Text="Price" FontAttributes="Bold" Grid.Row="0" Grid.Column="1" />
+                    <Label Text="Country" FontAttributes="Bold" Grid.Row="0" Grid.Column="2" />
+                    <Label Text="Packing date" FontAttributes="Bold" Grid.Row="0" Grid.Column="3" />
+                    <Label Text="Description" FontAttributes="Bold" Grid.Row="0" Grid.Column="4" />
+                    <Label Text="" Grid.Row="0" Grid.Column="5" />
+                </Grid>
+            </ListView.Header>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid 
+                        RowDefinitions="Auto"
+                        ColumnDefinitions="*, *, *, *, *, *, *, *, *">
+
+                            <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="0" />
+                            <Label Text="{Binding Price}" Grid.Row="0" Grid.Column="1" />
+                            <Label Text="{Binding Country}" Grid.Row="0" Grid.Column="2" />
+                            <Label Text="{Binding PackingDate}" Grid.Row="0" Grid.Column="3" />
+                            <Label Text="{Binding Description}" Grid.Row="0" Grid.Column="4" />
+
+                            <Button x:Name="RemoveBtn"
+                                    Text="Remove from cart" 
+                                    WidthRequest="100" HeightRequest="50"
+                                    Grid.Row="0" Grid.Column="5" 
+                                    Clicked="RemoveFromCartClicked"
+                                    CommandParameter="{Binding .}" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
