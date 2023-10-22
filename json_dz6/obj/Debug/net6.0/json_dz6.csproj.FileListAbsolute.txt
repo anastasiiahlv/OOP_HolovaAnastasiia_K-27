@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\bin\Debug\net6.0\json_dz6.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\bin\Debug\net6.0\json_dz6.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\bin\Debug\net6.0\json_dz6.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\bin\Debug\net6.0\json_dz6.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\bin\Debug\net6.0\json_dz6.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\refint\json_dz6.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\json_dz6.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\json_dz6\obj\Debug\net6.0\ref\json_dz6.dll

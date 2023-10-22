@@ -91,13 +91,10 @@ class River: GeographicalObject
         set { _length = value; }
     }
 
+    
     public override void GetInfo()
     {
-        Console.WriteLine("Information about a river.");
-        Console.WriteLine("Name of river: " + _name);
-        Console.WriteLine("Description: " + _description);
-        Console.WriteLine("Coordinate X: " + Convert.ToString(_coordinateX));
-        Console.WriteLine("Coordinate Y: " + Convert.ToString(_coordinateY));
+        base.GetInfo();
         Console.WriteLine("Flow rate: " + Convert.ToString(_flowRate));
         Console.WriteLine("Length: " + Convert.ToString(_length));
     }
@@ -144,11 +141,7 @@ class Mountain: GeographicalObject
 
     public override void GetInfo()
     {
-        Console.WriteLine("Information about a mountain.");
-        Console.WriteLine("Name of mountain: " + _name);
-        Console.WriteLine("Description: " + _description);
-        Console.WriteLine("Coordinate X: " + Convert.ToString(_coordinateX));
-        Console.WriteLine("Coordinate Y: " + Convert.ToString(_coordinateY));
+        base.GetInfo();
         Console.WriteLine("Highest point: " + Convert.ToString(_highestPoint));
     }
 }
