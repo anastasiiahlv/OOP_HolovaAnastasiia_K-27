@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\bin\Debug\net6.0\DZ7_Task4.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\bin\Debug\net6.0\DZ7_Task4.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\bin\Debug\net6.0\DZ7_Task4.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\bin\Debug\net6.0\DZ7_Task4.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\bin\Debug\net6.0\DZ7_Task4.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\refint\DZ7_Task4.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\DZ7_Task4.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task4\obj\Debug\net6.0\ref\DZ7_Task4.dll

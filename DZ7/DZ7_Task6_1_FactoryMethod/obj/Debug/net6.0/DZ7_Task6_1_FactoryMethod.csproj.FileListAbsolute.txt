@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\bin\Debug\net6.0\DZ7_Task6_1_FactoryMethod.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\bin\Debug\net6.0\DZ7_Task6_1_FactoryMethod.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\bin\Debug\net6.0\DZ7_Task6_1_FactoryMethod.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\bin\Debug\net6.0\DZ7_Task6_1_FactoryMethod.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\bin\Debug\net6.0\DZ7_Task6_1_FactoryMethod.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\refint\DZ7_Task6_1_FactoryMethod.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\DZ7_Task6_1_FactoryMethod.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_1_FactoryMethod\obj\Debug\net6.0\ref\DZ7_Task6_1_FactoryMethod.dll

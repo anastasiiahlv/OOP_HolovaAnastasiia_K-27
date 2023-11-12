@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\bin\Debug\net6.0\DZ7_Task6_2_Facade.exe
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\bin\Debug\net6.0\DZ7_Task6_2_Facade.deps.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\bin\Debug\net6.0\DZ7_Task6_2_Facade.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\bin\Debug\net6.0\DZ7_Task6_2_Facade.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\bin\Debug\net6.0\DZ7_Task6_2_Facade.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\refint\DZ7_Task6_2_Facade.dll
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.pdb
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\DZ7_Task6_2_Facade.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\OOP_HolovaAnastasiia_K-27\DZ7\DZ7_Task6_2_Facade\obj\Debug\net6.0\ref\DZ7_Task6_2_Facade.dll
