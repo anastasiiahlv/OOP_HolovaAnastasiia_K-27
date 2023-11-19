@@ -68,11 +68,46 @@ namespace AbstractFactory
                 Console.WriteLine("Mersedes Engine 3.3");
             }
         }
+
+        // AbstractProductC: Wheels DZ7
+        abstract class Wheels
+        {
+            public virtual void GetInfo()
+            {
+            }
+        }
+        // ConcreteProductC1
+        class FordWheels : Wheels
+        {
+            public override void GetInfo()
+            {
+                Console.WriteLine("Ford Wheels");
+            }
+        }
+        // ConcreteProductC2
+        class ToyotaWheels : Wheels
+        {
+            public override void GetInfo()
+            {
+                Console.WriteLine("Toyota Wheels");
+            }
+        }
+        // ConcreteProductC3
+        class MersedesWheels : Wheels
+        {
+            public override void GetInfo()
+            {
+                Console.WriteLine("Mersedes Wheels");
+            }
+        }
+
         // AbstractFactory
         interface ICarFactory
         {
             Car CreateCar();
             Engine CreateEngine();
+
+            Wheels CreateWheels();
         }
         // ConcreteFactory1
         class FordFactory : ICarFactory
@@ -85,6 +120,11 @@ namespace AbstractFactory
             Engine ICarFactory.CreateEngine()
             {
                 return new FordEngine();
+            }
+
+            Wheels ICarFactory.CreateWheels()
+            {
+                return new FordWheels();
             }
         }
         // ConcreteFactory2
@@ -99,6 +139,10 @@ namespace AbstractFactory
             {
                 return new ToyotaEngine();
             }
+            Wheels ICarFactory.CreateWheels()
+            {
+                return new ToyotaWheels();
+            }
         }
         // ConcreteFactory3: DZ7
         class MersedesFactory : ICarFactory
@@ -112,6 +156,10 @@ namespace AbstractFactory
             {
                 return new MersedesEngine();
             }
+            Wheels ICarFactory.CreateWheels()
+            {
+                return new MersedesWheels();
+            }
         }
         static void Main(string[] args)
         {
@@ -121,6 +169,9 @@ namespace AbstractFactory
             myCar.Info();
             Engine myEngine = carFactory.CreateEngine();
             myEngine.GetPower();
+            Wheels myWeels = carFactory.CreateWheels();
+            myWeels.GetInfo();
+            Console.WriteLine();
 
             // Ford
             carFactory = new FordFactory();
@@ -128,6 +179,9 @@ namespace AbstractFactory
             myCar.Info();
             myEngine = carFactory.CreateEngine();
             myEngine.GetPower();
+            myWeels = carFactory.CreateWheels();
+            myWeels.GetInfo();
+            Console.WriteLine();
 
             // Mersedes: DZ7
             carFactory = new MersedesFactory();
@@ -135,6 +189,8 @@ namespace AbstractFactory
             myCar.Info();
             myEngine = carFactory.CreateEngine();
             myEngine.GetPower();
+            myWeels = carFactory.CreateWheels();
+            myWeels.GetInfo();
 
             Console.ReadKey();
         }

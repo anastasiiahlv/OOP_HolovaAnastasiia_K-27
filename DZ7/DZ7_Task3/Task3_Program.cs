@@ -16,9 +16,9 @@ namespace Mediator.Examples
             m.Colleague1 = c1;
             m.Colleague2 = c2;
             m.Colleague3 = c3;
-            m.Send("Hello!", c3);
-            m.Send("How are you?", c1);
-            m.Send("Fine, thanks", c2);
+            m.Send("Hello!", c1);
+            m.Send("How are you?", c2);
+            m.Send("Fine, thanks", c3);
             // Wait for user
             Console.Read();
         }
